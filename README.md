@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Yug Patel 👋
 
-<!--
-**yugGIT29/yugGIT29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Robotics Engineering Student
 
-Here are some ideas to get you started:
+I'm an AI & Robotics student interested in building intelligent
+robotic systems through robotics, automation, embedded systems,
+and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Areas I'm Learning
+
+- Robot Kinematics & Dynamics
+- Robotics Programming with Python
+- Data Structures & Algorithms
+- Embedded Systems & Microcontrollers
+- MATLAB & Simulink
+- Control Systems
+- Artificial Intelligence & Machine Learning
+
+## 🛠️ Tools & Technologies
+
+- Python
+- MATLAB
+- Git & GitHub
+- Microcontrollers
+- Robotics Simulation
+
+## 🚀 My Goal
+
+To develop strong practical skills in robotics and eventually
+design and build intelligent autonomous robotic systems.
+
+## 📚 Currently Learning
+
+- Robotics fundamentals
+- Robot kinematics and dynamics
+- Embedded systems
+- Data structures and algorithms
+- MATLAB
+
+## 📂 Projects
+
+My robotics, embedded systems, programming, and AI projects
+will be documented here as I build them.
+
+## 📫 Connect With Me
+
+- GitHub: [yugGIT29](https://github.com/yugGIT29)
